@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning java programming
 - 💞️ I’m looking to collaborate on events to learn new things related to programming
 - 📫 How to reach me ? mail:-solankidhrumit4007@gmail.com 
+      Twitter- @dhrumitsolanki7
+      Linkedin-Dhrumit Solanki
 - I am also at heckerrank and hackerearth..with name as Solanki Dhrumit..
 
 <!---
